@@ -1,0 +1,6 @@
+# Korean packaged food peers (example peer group). Verify tickers before use.
+097950.KS  # CJ CheilJedang
+271560.KS  # Orion
+004370.KS  # Nongshim
+007310.KS  # Ottogi
+280360.KS  # Lotte Wellfood
