@@ -83,7 +83,7 @@ company has no statements, or fewer than 3 companies have data.
 Requires Python 3.10+.
 
 ```bash
-git clone https://github.com/<your-username>/credit-peer-comparison.git
+git clone https://github.com/<jaycode14>/credit-peer-comparison.git
 cd credit-peer-comparison
 python -m venv .venv
 # Windows: .venv\Scripts\activate      macOS / Linux: source .venv/bin/activate
